@@ -123,13 +123,13 @@
     background-size: contain;
 }
 
-.amenities ul li.icon-tv::before {
-    background-image: url('../images/icon_tv.png'); /* Adjust the path as needed */
+.amenities ul li.places_amenities_tv::before {
+    background-image: url('../images/icon_tv.png');
 }
 
-.amenities ul li.icon-wifi::before {
-    background-image: url('../images/icon_wifi.png'); /* Adjust the path as needed */
+.amenities ul li.places_amenities_wifi::before {
+    background-image: url('../images/icon_wifi.png');
 }
-.amenities ul li.icon-pets::before {
-    background-image: url('../images/icon_pets.png'); /* Adjust the path as needed */
+.amenities ul li.places_amenities_pet_friendly::before {
+    background-image: url('../images/icon_pets.png');
 }
